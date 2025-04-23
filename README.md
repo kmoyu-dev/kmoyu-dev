@@ -8,7 +8,7 @@
 
 > To Do:
 > - Redesign input system and buttons layout
-> - Add approve button for ... (I don't know)
+> - Add approve button for ... (deep research function of llm)
 > - Add loading bar animation for user to wait for the output (could be a few minutes)(percentage_utils.js)
 > - Hard code memory elements for llm outputs (save to side bar + open in a new generated html page)
 <!--
