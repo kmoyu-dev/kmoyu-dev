@@ -11,6 +11,7 @@
 > - Add approve button for ... (Deep Research function of llm)
 > - Add loading bar animation for user to wait for the output (could be a few minutes)(percentage_utils.js)
 > - Hard code memory elements for llm outputs (save to side bar + open in a new generated html page)
+> - Flowchart of entire logic system outline
 <!--
 ![](./profile-3d-contrib/profile-night-green.svg)
 -->
