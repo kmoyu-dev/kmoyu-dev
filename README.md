@@ -9,7 +9,7 @@
 > To Do:
 > - Redesign input system and buttons layout
 > - Add approve button for ... (I don't know)
-> - Hard code memory elements for llm outputs (save to side bar)
+> - Hard code memory elements for llm outputs (save to side bar + open in a new generated html page)
 <!--
 ![](./profile-3d-contrib/profile-night-green.svg)
 -->
