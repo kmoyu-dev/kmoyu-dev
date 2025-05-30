@@ -2,7 +2,7 @@
 
 <h1 align="center">
   
-  Ok
+  Ohhh
   
 </h1>
 
@@ -10,6 +10,3 @@
 > -
 
 
-<!--
-![](./profile-3d-contrib/profile-night-green.svg)
--->
